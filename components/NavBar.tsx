@@ -13,18 +13,12 @@ export default function NavBar() {
           </Link>
         </li>
         <li className="ml-auto">
-          <Link
-            href="/reviews"
-            className="font-bold font-orbitron text-indigo-800 hover:underline"
-          >
+          <Link href="/reviews" className="text-indigo-800 hover:underline">
             Reviews
           </Link>
         </li>
         <li>
-          <Link
-            href="/about"
-            className="font-bold font-orbitron text-indigo-800 hover:underline"
-          >
+          <Link href="/about" className="text-indigo-800 hover:underline">
             About
           </Link>
         </li>

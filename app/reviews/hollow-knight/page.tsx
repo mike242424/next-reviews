@@ -11,7 +11,6 @@ export default function HollowKnightPage() {
         height="360"
         className="mb-2 rounded"
       />
-      <p>This will be the review for Hollow Knight</p>
     </>
   );
 }
