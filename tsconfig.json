@@ -26,7 +26,8 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx",
-    "app/reviews/[slug]"
+    "app/reviews/[slug]",
+    "next.config.js"
   ],
   "exclude": ["node_modules"]
 }
